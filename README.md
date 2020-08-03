@@ -10,7 +10,7 @@ The purpose of this exercise was to create an election audit using Python and su
 The audit was performed swiftly using python to extract data from the CSV file, consolidate information and run key equations including percent of total vote, votes by candidate, votes by county, and others to successfully audit the election.
 
 ### Key Audit Questions
-*(Reference Results Below)*
+*(Reference Results for Screenshots)*
 - How many votes were cast in this congressional election? 
   - There were 369,711 total votes cast.
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
@@ -26,10 +26,13 @@ The audit was performed swiftly using python to extract data from the CSV file, 
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   - Dianna DeGette won w/ 73.8% of the total vote. 272,892 people voted for Dianna.
 
-***Results***
+***Text Results***
 
-![](/Resources/Screenshots/Results.png)
+![](/Resources/Screenshots/Results_.png)
 
+***Terminal Results***
+
+![](/Resources/Screenshots/Terminal_Results.png)
 
 ### Election-Audit Summary
 This Election Audit script can be adapted and use to maintain efficacy of any election results. The script is designed to take all rows of voting data, summarize and organize by all candidates voted for and all counties voted in in the raw data source. The script can be adapted to summarize details based on other parameters such as demographics, age, or any other data type provided. Using this script instead of calculating by hand minimizes user error, and prevents fraud.
