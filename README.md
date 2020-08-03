@@ -27,6 +27,7 @@ The audit was performed swiftly using python to extract data from the CSV file, 
   - Dianna DeGette won w/ 73.8% of the total vote. 272,892 people voted for Dianna.
 
 ***Results***
+
 ![](/Resources/Screenshots/Results.png)
 
 
